@@ -28,7 +28,7 @@ function Certificates() {
                     dark:text-cyan-400
                     "
                 >
-                    Certificados & Conquistas
+                    Certificações & Formação
                 </h2>
 
 

@@ -102,7 +102,7 @@ function Navbar() {
     onClick={() => scrollToSection("certificates")}
     className="hover:text-cyan-400 transition"
   >
-    Certificados
+    Certificações
   </button>
 </li>
 
@@ -199,7 +199,7 @@ function Navbar() {
 
       <li>
         <button onClick={() => scrollToSection("certificates")}>
-          Certificados
+          Certificações
         </button>
       </li>
 
