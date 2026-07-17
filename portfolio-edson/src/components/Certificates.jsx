@@ -38,29 +38,21 @@ function Certificates() {
 
                     {/* Informação do Certificado */}
 
-                    <a
-                        href="https://app.rocketseat.com.br/certificates/e9f2db54-46be-4870-bf73-687362a02f48"
-                        target="_blank"
-                        rel="noopener noreferrer"
-
-                        className="
-                        bg-white
-                        dark:bg-slate-950
-
-                        p-6
-                        rounded-xl
-
-                        shadow-lg
-
-                        border
-                        border-gray-200
-                        dark:border-slate-800
-
-                        hover:scale-105
-                        transition
-                        duration-300
-                        "
-                    >
+                        <div
+                            className="
+                            bg-white
+                            dark:bg-slate-950
+                            p-6
+                            rounded-xl
+                            shadow-lg
+                            border
+                            border-gray-200
+                            dark:border-slate-700
+                            hover:scale-105
+                            transition
+                            duration-300   
+                            "
+                        >
 
 
                         <div className="flex items-center gap-4 mb-4">
@@ -141,31 +133,28 @@ function Certificates() {
 
 
 
-                        <div
-                            className="
-                            flex
-                            items-center
-                            gap-2
-                            mt-5
-
-                            text-cyan-500
-                            dark:text-cyan-400
-                            "
-                        >
-
-                            <span>
-                                Ver certificado
-                            </span>
-
-                            <ExternalLink size={18}/>
-
-
-                        </div>
-
-
-
-                    </a>
-
+                        <a
+            href="https://app.rocketseat.com.br/certificates/e9f2db54-46be-4870-bf73-687362a02f48"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="
+                inline-flex
+                items-center
+                gap-2
+                mt-5    
+                text-cyan-500
+                dark:text-cyan-400
+                font-semibold
+                transition-all
+                duration-300
+                hover:text-cyan-600
+                hover:scale-105
+            "
+        >
+            <span>Ver certificado</span>
+            <ExternalLink size={18}/>
+        </a>
+</div>
 
 
 

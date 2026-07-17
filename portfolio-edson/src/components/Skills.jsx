@@ -49,7 +49,7 @@ const skills = [
     ]
   },
 
-  {
+    {
     title: "IoT e Sistemas Embebidos",
     items: [
       "Arduino",
@@ -58,6 +58,52 @@ const skills = [
       "Node-RED"
     ]
   },
+  
+  {
+    title: "APIs e Integração",
+    items: [
+      "APIs RESTful",
+      "Desenvolvimento e consumo de APIs"
+    ]
+  },
+
+  {
+    title: "Redes e Infraestrutura",
+    items: [
+      "TCP/IP",
+      "Protocolos de comunicação",
+      "Roteamento de rede",
+      "Configuração de sistemas",
+      "Resolução de problemas de conectividade"
+    ]
+  },
+  
+{
+  title: "Segurança da Informação",
+  items: [
+    "Controlo de acesso",
+    "Segurança de aplicações Web",
+    "Proteção de dados pessoais"
+  ]
+},
+
+{
+  title: "Engenharia de Software",
+  items: [
+    "Análise de requisitos",
+    "Modelação de sistemas",
+    "Testes de software manuais"
+  ]
+},
+
+{
+  title: "Metodologias de Desenvolvimento",
+  items: [
+    "Agile",
+    "Scrum"
+  ]
+},
+
 
   {
     title: "Business Intelligence e Dados",
