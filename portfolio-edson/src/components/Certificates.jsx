@@ -166,14 +166,14 @@ function Certificates() {
 
 
                         <a
-                            href="/images/certificates/nlw-operator-python.png"
+                            href="/certificates/nlw-operator-python.png"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
 
                             <img
 
-                                src="/images/certificates/nlw-operator-python.png"
+                                src="/certificates/nlw-operator-python.png"
 
                                 alt="Certificado NLW Operator Python"
 
@@ -336,14 +336,14 @@ function Certificates() {
 
 
                         <a
-                            href="/images/certificates/caboeolica.png"
+                            href="/certificates/caboeolica.png"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
 
                             <img
 
-                                src="/images/certificates/caboeolica.png"
+                                src="/certificates/caboeolica.png"
 
                                 alt="Certificado Cabeólica University Challenge"
 
