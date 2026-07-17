@@ -11,7 +11,7 @@ Personal portfolio developed with React, Vite and Tailwind CSS.
 
 ## 🌐 Live Demo
 
-https://edsonvazti.onrender.com
+https://edson-vaz-portfolio.onrender.com
 
 ## 📂 Repository
 
