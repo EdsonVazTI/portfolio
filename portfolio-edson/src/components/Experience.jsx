@@ -95,7 +95,7 @@ function Experience() {
 
 
             <li>
-              Instalação, configuração e manutenção de computadores, servidores, impressoras, redes e infraestruturas informáticas..
+              Instalação, configuração e manutenção de computadores, servidores, impressoras, redes e infraestruturas informáticas.
             </li>
 
 
