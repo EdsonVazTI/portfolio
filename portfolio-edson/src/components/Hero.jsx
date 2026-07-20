@@ -46,18 +46,23 @@ dark:text-white
                 Engenheiro Informático
               </h2>
 
-              <p
+                          <p
                 className="
                   mt-6
                   max-w-2xl
                   text-gray-700
                   dark:text-gray-400
                   leading-8
+                  text-center
                 "
               >
-                Desenvolvimento de Software | Suporte Técnico |
-                Redes Informáticas | Administração de Sistemas |
-                Sistemas ERP
+                <span className="block">
+                  Desenvolvimento de Software | Suporte Técnico | Redes Informáticas
+                </span>
+
+                <span className="block">
+                  Administração de Sistemas | Sistemas ERP
+                </span>
               </p>
 
               <div className="mt-8 flex gap-4">
