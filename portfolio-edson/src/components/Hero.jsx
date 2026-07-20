@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { Github, Linkedin, Mail } from "lucide-react";
 
+const showCVButton = false;
 
 function Hero() {
 
@@ -72,21 +73,23 @@ dark:text-white
                   Ver Projetos
                 </button>
 
-                <a
-                  href="/cv/CV_Edson_Vaz.pdf"
-                  download
-                  className="
-                    border
-                    border-cyan-500
-                    px-6
-                    py-3
-                    rounded-lg
-                    hover:bg-cyan-500
-                    transition
-                  "
-                >
-                  Baixar CV
-                </a>
+                        {showCVButton && (
+            <a
+              href="/cv/CV_Edson_Vaz.pdf"
+              download
+              className="
+                border
+                border-cyan-500
+                px-6
+                py-3
+                rounded-lg
+                hover:bg-cyan-500
+                transition
+              "
+            >
+              Baixar CV
+            </a>
+          )}
 
               </div>
 
