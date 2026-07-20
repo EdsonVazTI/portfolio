@@ -95,12 +95,12 @@ function Experience() {
 
 
             <li>
-              Instalação, configuração e manutenção de computadores, redes e infraestruturas informáticas.
+              Instalação, configuração e manutenção de computadores, servidores, impressoras, redes e infraestruturas informáticas..
             </li>
 
 
             <li>
-              Administração e manutenção de servidores Windows.
+              Administração e manutenção de servidores Microsoft Windows Server.
             </li>
 
 
@@ -115,12 +115,16 @@ function Experience() {
 
 
             <li>
-              Implementação e configuração de sistemas de videovigilância.
+              Gestão de utilizadores, permissões e acessos aos sistemas.
             </li>
 
 
             <li>
               Suporte técnico, formação e acompanhamento de utilizadores.
+            </li>
+
+            <li>
+              Intervenção técnica em empresas de diversos setores, nomeadamente contabilidade, comércio e microfinanças.
             </li>
 
 
