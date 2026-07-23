@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Github, Linkedin, Mail } from "lucide-react";
 
-const showCVButton = true;
+const showCVButton = false;
 
 function Hero() {
 
